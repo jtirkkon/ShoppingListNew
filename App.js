@@ -5,7 +5,6 @@ import{ Header } from'react-native-elements';
 import{ Icon } from'react-native-elements';
 import{ Input, Button } from'react-native-elements';
 import{ ListItem } from'react-native-elements';
-//testing
 
 export default function App() {
   const [product, setProduct] = useState('');
